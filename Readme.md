@@ -26,17 +26,13 @@ THEN I can save my initials and score
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-
-
-
-
-
+![image](https://github.com/vikasjonathan/Quiztime/assets/138143340/a8008e18-f0f1-4e36-95eb-9098c21feeaa)
 
 
 ## Review
 
 You are required to submit the following for review:
 
-* [The URL of the deployed application.]([https://vikasjonathan.github.io/PasswordGen/]
+* [The URL of the deployed application.]([https://vikasjonathan.github.io/Quiztime/]
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project. [https://github.com/vikasjonathan/PasswordGen.git]
+* The URL of the GitHub repository, with a unique name and a readme describing the project. [https://github.com/vikasjonathan/Quiztime.git]
