@@ -22,3 +22,21 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+
+
+
+
+
+
+## Review
+
+You are required to submit the following for review:
+
+* [The URL of the deployed application.]([https://vikasjonathan.github.io/PasswordGen/]
+
+* The URL of the GitHub repository, with a unique name and a readme describing the project. [https://github.com/vikasjonathan/PasswordGen.git]
